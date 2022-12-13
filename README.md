@@ -6,7 +6,9 @@
 
 # Three different models test
 -Linear Regression Model
-
+![Linear Model](Linear-Regression-Model.png)
 -Long Short-Term Memory Model (LSTM)
+![LSTM Model](LSTM-1-year-prediction.png)
 
 -Seasonal Auto-Regressive Integrated Moving Average with eXogenous factors (SARIMAX)
+![SARIMAX Model](SARIMAX-Prediction.png)
